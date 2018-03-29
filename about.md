@@ -15,7 +15,7 @@ Pittsburgh based maker educator
 
 [Teaching Training with Mount Lebanon School District](http://photos.lebomag.com/p510513571/hA0CB87C1#ha0cb8ab7)
 
-# Presentations
+### Presentations
 [Lead Conference 2016- Adapting Makerspaces for a Wide Range of Abilities](https://ww2.eventrebels.com/er/EventHomePage/CustomPage.jsp?ActivityID=16329&ItemID=60978)
 
 [ASTC 2016- High, Low, or No Tech? Choosing appropriate technology for new museum exhibits
