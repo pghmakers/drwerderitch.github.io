@@ -6,7 +6,7 @@ permalink: /about/
 Making for Education
 
 ## More Information
-10+ years of education experience, in and out of schools. 
+Hands-on-learning in and out of schools
 
 ## Media
 
