@@ -6,7 +6,9 @@ permalink: /about/
 Making for Education
 
 ## More Information
-Hands-on-learning in and out of schools
+Check out[Remake Learning](https://remakelearning.org/maker/) for an overview of the maker movement and the Pittsburgh network.  
+
+
 
 ## Media
 
