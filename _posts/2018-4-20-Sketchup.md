@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Sketchup Tutorial
+title: Scratch class
 ---
-Self-paced tutorial illustrating the core concepts of modeling in SketchUp.
-[Start a Drawing, Part 1](https://3dwarehouse.sketchup.com/model/a00309dbdab49ffb545172f70efed474/Start-a-Drawing-Part-1)
+follow this link to sign up for class
+
+http://scratch.mit.edu/classes/105958/register/c5d8e03252bc40c09b977c251f7eff33
